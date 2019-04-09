@@ -36,5 +36,7 @@ Este documento presenta el contexto histórico que da inicio a la Fundación Bol
 * Protocolos de validación de cambio social
         * Para crear datos de impacto verificados
         * Para vincular a toda la sociedad civil en la creación de cambio social
-* Registro unificado de 
+* Registro unificado de impacto
+        * Para dar trazabilidad a los recursos, ergo transparencia
+        * Para hacer visibles los diferentes esfuerzos
 * Sistema de información sobre cambio social
