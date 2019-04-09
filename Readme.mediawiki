@@ -1,0 +1,40 @@
+<pre>
+  Title: Bolsa Social
+  Author: @SocialxChange
+  Status: Active
+  Type: Paper
+  Created: 2019-04-09
+  License: MIT
+</pre>
+
+=Bolsa Social=
+
+Herramientas tecnológicas para multiplicar el cambio social.
+
+==i. Abstract.==
+
+Este documento presenta el contexto histórico que da inicio a la Fundación Bolsa Social (SocialxChange) y su ámbito de acción.
+
+==ii. Índice.==
+
+* [[#Historia|Historia]]: hecho a lo largo del tiempo que nos unen.
+
+* [[#Propuestas|Propuestas]]: herramientas y mecanismos para multiplicar el cambio.
+
+
+<div id="Historia"></div>
+
+==iii. Historia.==
+
+* FEN - UChile, amistades
+* Grupo de estudio sobre Fondo Mixto
+
+<div id="Propuestas"></div>
+
+==iii. Propuestas.==
+
+* Protocolos de validación de cambio social
+        * Para crear datos de impacto verificados
+        * Para vincular a toda la sociedad civil en la creación de cambio social
+* Registro unificado de 
+* Sistema de información sobre cambio social
